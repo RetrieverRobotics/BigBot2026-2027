@@ -1,0 +1,2 @@
+# Vendored PROS API headers - do not lint.
+Checks: '-*'

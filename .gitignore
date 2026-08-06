@@ -1,0 +1,22 @@
+# --- Python / uv ---
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+# NOTE: uv.lock is intentionally NOT ignored - commit it.
+
+# --- Editors ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- OS ---
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- Logs / captures ---
+*.log
+/captures/

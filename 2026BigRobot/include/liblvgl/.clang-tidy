@@ -1,0 +1,2 @@
+# Vendored LVGL - do not lint.
+Checks: '-*'
